@@ -19,7 +19,7 @@ February 17, 2015
 *[Startup Policy Lab](http://www.startuppolicylab.org), a fiscally sponsored project of Community Initiatives.*
  
 
-**I.	INTRODUCTION**
+**	INTRODUCTION**
 
 This Report is based on feedback provided in preparation for, notes taken during, and additional material provided after the Government Data & Privacy Roundtable. The City Attorney of Oakland and Startup Policy Lab organized the Government Data & Privacy Roundtable [Roundtable] at Oakland’s City Hall on November 13, 2014. 
 
