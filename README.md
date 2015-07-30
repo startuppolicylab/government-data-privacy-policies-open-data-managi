@@ -11,7 +11,7 @@ FINAL REPORT
 
 Presented by
 
-Startup Policy Lab
+[Startup Policy Lab](http://www.startuppolicylab.org)
 
 February 17, 2015
 
