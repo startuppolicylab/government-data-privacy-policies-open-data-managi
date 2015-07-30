@@ -1,4 +1,4 @@
-# **I. ORGANIZING ENTITIES
+# I. ORGANIZING ENTITIES
 
 *Office of the City Attorney of Oakland*  
 
