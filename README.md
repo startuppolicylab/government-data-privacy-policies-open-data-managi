@@ -1,10 +1,14 @@
 Government Data Privacy Policies & Open Data:
 =======
 
-
 ![](SPL_textBW-01 Crop.png)
 
+
+## Managing Local Government Data Practices
+
+
 FINAL REPORT
+
 Presented by
 
 Startup Policy Lab
