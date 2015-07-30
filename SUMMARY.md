@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [PART II](partII.md)
-* PART III
+* [PART III](part_iii.md)
 
