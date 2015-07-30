@@ -1,6 +1,7 @@
 Government Data Privacy Policies & Open Data:
 =======
-## Managing Local Government Data Practices
+
+# Managing Local Government Data Practices
 
 
 ![](SPL_textBW-01 Crop.png)
