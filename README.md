@@ -37,4 +37,4 @@ The [City Attorney of Oakland is Barbara Parker](http://www.oaklandcityattorney.
 
 Prepared by
 
-Charles Belle, with contributions from Jasmine Braxton, Ariane Mohamadi, and Brian Pascal.
+Charles Belle, with contributions from Jasmine Braxton, Ariane Mohamadi, Brian Pascal, and Timothy Yim.
