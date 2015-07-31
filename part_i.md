@@ -7,3 +7,7 @@ The [City Attorney of Oakland is Barbara Parker](http://www.oaklandcityattorney.
 *Startup Policy Lab*   	
 
 [Startup Policy Lab](http://www.startuppolicylab.org) is a nonprofit think tank working at the intersection of law, technology, and policy. Our work includes developing technology and engaging in independent research to inform laws, public policy, and culture in support of innovation and civic engagement. By focusing on new approaches for a technologically evolving world, Startup Policy Lab continually breaks new ground in connecting policymakers with the innovation community. 
+
+Prepared by
+
+Charles Belle, with contributions from Jasmine Braxton, Ariane Mohamadi, Brian Pascal, and Timothy Yim.
