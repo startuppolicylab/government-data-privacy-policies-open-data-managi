@@ -44,7 +44,7 @@ Beginning with the concept of a data steward, the participants framed the discus
 
 With that context in mind, the Roundtable touched upon a wide range of issues at the intersection of Open Data initiatives and privacy. Unfortunately, the depth and complexity of those issues prevented every issue from being comprehensively addressed in the limited time available. Nonetheless, five critical issues emerged that participants felt deserved prioritization and additional study for future Roundtables. (See Addendum for a more detailed look at these five critical issues).
 
-**FOIA vs. Open Data Frameworks:** Traditional legal frameworks for data management originate with the Freedom of Information Act (FOIA) legal regime. But the Open Data movement is more expansive and includes new data-driven processes.  The differences between these two frameworks, while subtle, have led to conflicts when implementing practices because of confusion, uncertainty, and inconsistent policies. 
+**FOIA vs. Open Data Frameworks:** Traditional legal frameworks for data management originate with the Freedom of Information Act (FOIA) legal regime. But the Open Data movement is more expansive and includes new data-driven processes.[7] The differences between these two frameworks, while subtle, have led to conflicts when implementing practices because of confusion, uncertainty, and inconsistent policies. 
 
 **Data Classification:** Efforts to publish data, while still protecting personally identifiable information, have led to attempts at classifying data at different levels of sensitivity. This approach, however, can be problematic. Tools and techniques for re-identification and de-anonymization are becoming increasingly sophisticated. 
 
