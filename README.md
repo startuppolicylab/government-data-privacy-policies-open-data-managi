@@ -13,8 +13,7 @@ Presented by
 February 17, 2015
 
 
-*[Startup Policy Lab](http://www.startuppolicylab.org), a fiscally sponsored project of Community Initiatives.*
- 
+*Startup Policy Lab, a fiscally sponsored project of Community Initiatives – a 501c3 nonprofit organization*
 
 **	INTRODUCTION**
 
