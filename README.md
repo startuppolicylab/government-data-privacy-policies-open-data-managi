@@ -1,10 +1,10 @@
 Government Data Privacy Policies & Open Data:
 =======
 
-![](SPL_textBW-01 Crop.png)
-
 
 ## Managing Local Government Data Practices
+
+![](SPL_textBW-01 Crop.png)
 
 
 FINAL REPORT
